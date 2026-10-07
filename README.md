@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis-Python
+# Diwali Sales Analysis
 Python project: Analyze Diwali sales data to improve customer experience and sales
 
 - Performed data cleaning and manipulation
